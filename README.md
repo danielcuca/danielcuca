@@ -17,13 +17,11 @@
   
 <h3>
   
-- 🌱 Desenvolvedor FullStack de Florianópolis/SC
+- 🌱 Desenvolvedor FullStack de Porto União/SC
   
-- 🔭 Atualmente estou aprendendo C#
+- 🔭 Atualmente estou aprendendo Python
 
-- 💻 Apaixonado por jogos e animes
-
-- 📫 Sinta-se livre para me contatar via e-mail: bruno.salinasgsr@gmail.com <br>
+- 📫 Sinta-se livre para me contatar via e-mail: danielcucadev@gmail.com <br>
 </h3>
 </p>
 
