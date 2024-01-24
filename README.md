@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Daniel Cuca </h1>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08D5E1&center=true&vCenter=true&width=1000&lines=Desenvolvedor+FullStacks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08D5E1&center=true&vCenter=true&width=1000&lines=Desenvolvedor+FullStack)](https://git.io/typing-svg)
 
 ##
 <br/>
@@ -29,17 +29,8 @@
 </div>
 <br>
 
-### 📊 Github Stats:
-<div style="display: inline_block" align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielcuca&show_icons=true&theme=gruvbox"> <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcuca&layout=compact&theme=gruvbox"> <br>
-</div>
-
-<div style="display: inline_block" align="center">
-    <img height="135em" src="https://streak-stats.demolab.com?user=danielcuca&theme=gruvbox"><br>
-    <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielcuca&theme=gruvbox"><br>
-</div>
-
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielcuca&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielcuca&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 <br>
 
 ### 🛠️ Tecnologias que uso atualmente:
