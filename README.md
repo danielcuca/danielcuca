@@ -67,9 +67,6 @@
 
 <hr>
 
-<img width=100% src='https://capsule-render.vercel.app/api?type=waving&height=125&color=BDB76B&reversal=false&descAlign=50&section=footer' />
-
-
 <div align="center">
   
 <br> ![](https://komarev.com/ghpvc/?username=danielcuca)
